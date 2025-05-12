@@ -22,6 +22,6 @@ basic.forever(function () {
             `)
         radio.sendNumber(12)
         basic.pause(1000)
-        radio.sendNumber(0)
+        radio.sendNumber(14)
     }
 })
